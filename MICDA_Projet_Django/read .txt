@@ -2,8 +2,6 @@ membre
 issa faye 
 INE N00051B20181
 
-maguette fall seye
-INE N001F1320182
 
 lien 
 https://github.com/Faye728/MICDA-projet-django-2025.git
